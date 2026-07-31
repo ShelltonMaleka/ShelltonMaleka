@@ -56,9 +56,9 @@ An end-to-end machine-learning application that predicts whether a bank customer
 
 **Technologies:** Python, Pandas, Scikit-learn, Joblib, Streamlit, and GitHub
 
-🔗 **Live Application:** Add your Streamlit link here
+🔗 **Live Application:** https://customer-churn-prediction-malekas.streamlit.app/
 
-💻 **Source Code:** Add your GitHub repository link here
+💻 **Source Code:** https://github.com/ShelltonMaleka/customer-churn-prediction.git
 
 ---
 
