@@ -1,4 +1,4 @@
-## Hi there, I'm Maleka👋
+## Hi there, I'm Maleka Shellton👋
 
 ## 💫 About Me
 
