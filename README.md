@@ -74,7 +74,7 @@ An end-to-end machine-learning application that predicts whether a bank customer
 
 📧 Email: Malekashellton@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/shellton-maleka-7523b2400
+💼 LinkedIn: https://www.linkedin.com/in/shellton-maleka0310
  
 
 
