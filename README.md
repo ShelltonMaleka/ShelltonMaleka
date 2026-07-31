@@ -10,7 +10,7 @@
 
 🚀 I recently developed and deployed a Customer Churn Prediction application using Scikit-learn, Joblib, Streamlit, and GitHub.
 
-🌱 I am currently improving my skills in machine learning, Python, SQL, cloud technologies, and data visualisation.
+🌱 I am currently improving my skills in machine learning, Python, PySpark, SQL, R, cloud technologies, and data visualisation.
 
 🤝 I am open to collaborating on data science, machine learning, and analytics projects where I can learn and contribute.
 
@@ -21,6 +21,7 @@
 ### Programming and Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
