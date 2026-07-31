@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Maleka 👋
+## Hi there, I'm Maleka👋
 
 ## 💫 About Me
 
