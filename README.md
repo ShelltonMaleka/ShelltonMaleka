@@ -67,9 +67,11 @@ An end-to-end machine-learning application that predicts whether a bank customer
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShelltonMaleka&show_icons=true&theme=tokyonight&cache_seconds=86400)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShelltonMaleka&layout=compact&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShelltonMaleka&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShelltonMaleka&layout=compact&theme=tokyonight)
 
 ---
 
