@@ -50,6 +50,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+### 🤖 AI & LLM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=langchain,ollama" />
+</p>
+
+
 ---
 
 ## 🚀 Featured Project
