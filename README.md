@@ -1,6 +1,6 @@
 ## Hi there, I'm Maleka Shellton👋
 
-## 💫 About Me
+## More About Shellton
 
 🎓 I am a postgraduate Data Science student with a background in Mathematics and Science education.
 
