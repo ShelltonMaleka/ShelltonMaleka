@@ -84,12 +84,6 @@ An end-to-end machine-learning application that predicts whether a bank customer
   <img src="https://streak-stats.demolab.com?user=ShelltonMaleka&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShelltonMaleka&layout=compact&langs_count=8" alt="Most Used Languages" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
