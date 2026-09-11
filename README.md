@@ -90,12 +90,6 @@ An end-to-end machine-learning application that predicts whether a bank customer
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShelltonMaleka&theme=github_dark" alt="Most Used Languages"/>
 </p>
 
-<h2 align="center">📁 Repositories by Language</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShelltonMaleka&theme=github_dark" alt="Repositories by Language"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
