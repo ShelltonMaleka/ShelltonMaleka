@@ -84,9 +84,29 @@ An end-to-end machine-learning application that predicts whether a bank customer
   <img src="https://streak-stats.demolab.com?user=ShelltonMaleka&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 💻 Most Used Languages
+<h2 align="center">📊 GitHub Statistics</h2>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShelltonMaleka&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShelltonMaleka&theme=github_dark" alt="GitHub Stats"/>
+</p>
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShelltonMaleka&theme=github_dark" alt="Most Used Languages"/>
+</p>
+
+<h2 align="center">📁 Repositories by Language</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShelltonMaleka&theme=github_dark" alt="Repositories by Language"/>
+</p>
+
+<h2 align="center">⏰ Productive Time</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShelltonMaleka&theme=github_dark&utcOffset=2" alt="Productive Time"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
