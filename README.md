@@ -84,6 +84,30 @@ An end-to-end machine-learning application that predicts whether a bank customer
   <img src="https://streak-stats.demolab.com?user=ShelltonMaleka&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShelltonMaleka&show_icons=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShelltonMaleka&layout=compact&langs_count=8" height="165"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ShelltonMaleka" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShelltonMaleka" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShelltonMaleka&row=1&column=6" />
+</p>
 
 ---
 
